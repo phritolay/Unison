@@ -1,4 +1,4 @@
-Unison = (function() {
+var Unison = (function() {
 
   'use strict';
 
